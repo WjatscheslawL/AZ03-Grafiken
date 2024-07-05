@@ -29,4 +29,3 @@ match start:
         # hw3.writecena()
         hw3.create_new_csv()
         hw3.create_hist()
-        
